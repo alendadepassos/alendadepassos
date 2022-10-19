@@ -54,7 +54,7 @@ Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Fe
 <!--Snake animation-->
 <div align="center">
 
- ![Snake animation](https://github.com/alendadepassos/alendadepassos/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/alendadepassos/alendadepassos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
