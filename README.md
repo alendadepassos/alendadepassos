@@ -13,6 +13,8 @@ Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Fe
 
 </div>
 
+##
+
 <!-- Most Used Languages-->
 <div align="center">
   <a href="https://https://github.com/alendadepassos">
@@ -46,6 +48,8 @@ Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Fe
   <a href="https://steamcommunity.com/id/alendadepassos" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 
 </div>
+
+##
 
 <!--Snake animation-->
 <div align="center">
