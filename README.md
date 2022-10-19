@@ -6,6 +6,12 @@
 - :zap:  Internship at Supremo Tribunal Federal 
 
 ##
+<!-- acesso gitlab-->
+<div>
+Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Federal se encontram exclusivamente no meu GitLab pois essa é a plataforma padrão do Orgão:
+<a href="https://gitlab.com/lucas.s.passos" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+
+</div>
 
 <!-- Most Used Languages-->
 <div align="center">
@@ -33,7 +39,7 @@
   <div> 
     <div align="center">
   <a href="https://instagram.com/a_lenda_de_passos?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucaspassos9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href = "mailto:lucaspassos9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/lucaspassos9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/alendadepassos" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/lucas.s.passos" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
@@ -41,6 +47,7 @@
 
 </div>
 
+<!--Snake animation-->
 <div align="center">
 
   ![Snake animation](https://github.com/alendadepassos/alendadepassos/blob/output/github-contribution-grid-snake.svg)
