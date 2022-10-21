@@ -15,11 +15,14 @@ Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Fe
 
 ##
 
+
+
 <!-- Most Used Languages-->
 <div align="center">
-  <a href="https://https://github.com/alendadepassos">
+  <a href="https://github.com/alendadepassos">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alendadepassos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alendadepassos&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=alendadepassos&custom_title=Lucas Passos GitHub Stats&count_private=true&show_icons=true&theme=radical"/>
 </div>
 
 ##  
