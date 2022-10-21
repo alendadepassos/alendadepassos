@@ -9,8 +9,10 @@
 ##
 <!-- acesso gitlab-->
 <div>
-Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Federal se encontram exclusivamente no meu GitLab pois essa é a plataforma padrão do Orgão:
-<a href="https://gitlab.com/lucas.s.passos" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+Meus códigos e contribuições de cunho profissional para o Supremo Tribunal Federal se encontram exclusivamente no meu GitLab pois essa é a plataforma padrão do Orgão: 
+
+# <a href="https://gitlab.com/lucas.s.passos" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+
 
 </div>
 
